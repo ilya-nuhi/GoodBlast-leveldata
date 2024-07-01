@@ -1,0 +1,7 @@
+{
+    "level_number": 3,
+    "grid_width": 3,
+    "grid_height": 4,
+    "move_count": 20,
+    "grid": ["bo", "bo", "bo", "bo", "bo", "bo", "bo", "bo", "bo", "bo", "bo", "bo"]
+}
