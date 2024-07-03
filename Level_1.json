@@ -4,8 +4,8 @@
     "grid_height": 4,
     "move_count": 20,
     "rand_colors": ["red","green","blue","yellow"],
-    "grid": [["bo", "bo", "bo"],
-             ["bo", "bo", "bo"],
-             ["bo", "bo", "bo"],
-             ["bo", "bo", "bo"]]
+    "grid": [["rand", "rand", "rand"],
+             ["rand", "rand", "rand"],
+             ["rand", "rand", "rand"],
+             ["rand", "rand", "rand"]]
 }
