@@ -3,15 +3,15 @@
     "grid_width": 6,
     "grid_height": 8,
     "move_count": 30,
-    "rand_colors": ["red", "green", "blue", "yellow"],
+    "rand_colors": ["red", "green", "blue", "yellow", "purple", "pink"],
     "grid": [
-        ["rand", "box0", "rand", "box1", "rand", "box2"],
-        ["rand", "box3", "rand", "box4", "rand", "box5"],
-        ["rand", "rand", "rand", "rand", "rand", "rand"],
-        ["box0", "box1", "box2", "box3", "box4", "box5"],
-        ["rand", "box0", "rand", "box1", "rand", "box2"],
-        ["rand", "box3", "rand", "box4", "rand", "box5"],
-        ["rand", "rand", "rand", "rand", "rand", "rand"],
-        ["box0", "box1", "box2", "box3", "box4", "box5"]
+        ["rand", "box0", "rand", "box1", "rand", "box0"],
+        ["red", "green", "blue", "yellow", "purple", "pink"],
+        ["box1", "rand", "box0", "rand", "box1", "rand"],
+        ["yellow", "blue", "green", "red", "pink", "purple"],
+        ["rand", "box0", "rand", "box1", "rand", "box0"],
+        ["pink", "purple", "yellow", "blue", "green", "red"],
+        ["box1", "rand", "box0", "rand", "box1", "rand"],
+        ["green", "red", "purple", "pink", "yellow", "blue"]
     ]
 }
