@@ -1,11 +1,17 @@
 {
-    "level_number": 1,
-    "grid_width": 3,
-    "grid_height": 4,
-    "move_count": 20,
-    "rand_colors": ["red","green","blue","yellow"],
-    "grid": [["rand", "box0", "rand"],
-             ["rand", "box1", "rand"],
-             ["rand", "rand", "rand"],
-             ["rand", "rand", "rand"]]
+    "level_number": 2,
+    "grid_width": 6,
+    "grid_height": 8,
+    "move_count": 30,
+    "rand_colors": ["red", "green", "blue", "yellow"],
+    "grid": [
+        ["rand", "box0", "rand", "box1", "rand", "box2"],
+        ["rand", "box3", "rand", "box4", "rand", "box5"],
+        ["rand", "rand", "rand", "rand", "rand", "rand"],
+        ["box0", "box1", "box2", "box3", "box4", "box5"],
+        ["rand", "box0", "rand", "box1", "rand", "box2"],
+        ["rand", "box3", "rand", "box4", "rand", "box5"],
+        ["rand", "rand", "rand", "rand", "rand", "rand"],
+        ["box0", "box1", "box2", "box3", "box4", "box5"]
+    ]
 }
