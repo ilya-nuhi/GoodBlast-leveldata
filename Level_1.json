@@ -11,7 +11,7 @@
         ["yellow", "blue", "green", "red", "pink", "purple"],
         ["green", "box0", "yellow", "box1", "green", "box0"],
         ["pink", "purple", "yellow", "blue", "green", "red"],
-        ["box1", "blue", "box0", "pink", "box1", "pink"],
+        ["box1", "box1", "box0", "box0", "box1", "pink"],
         ["green", "red", "purple", "pink", "yellow", "blue"]
     ]
 }
