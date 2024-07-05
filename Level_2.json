@@ -1,11 +1,18 @@
 {
-    "level_number": 2,
-    "grid_width": 3,
-    "grid_height": 4,
-    "move_count": 20,
-    "rand_colors": ["red","green","blue","purple"],
-    "grid": [["bo", "bo", "bo"],
-             ["bo", "bo", "bo"],
-             ["bo", "bo", "bo"],
-             ["bo", "bo", "bo"]]
+    "level_number": 3,
+    "grid_width": 8,
+    "grid_height": 9,
+    "move_count": 40,
+    "rand_colors": ["blue", "yellow", "purple", "pink"],
+    "grid": [
+        ["rand", "rand", "rand", "rand", "rand", "rand", "rand", "rand"],
+        ["rand", "rand", "rand", "rand", "rand", "rand", "rand", "rand"],
+        ["rand", "rand", "rand", "rand", "rand", "rand", "rand", "rand"],
+        ["rand", "rand", "rand", "rand", "rand", "rand", "rand", "rand"],
+        ["rand", "rand", "rand", "rand", "rand", "rand", "rand", "rand"],
+        ["rand", "rand", "rand", "rand", "rand", "rand", "rand", "rand"],
+        ["rand", "rand", "rand", "rand", "rand", "rand", "rand", "rand"],
+        ["rand", "rand", "rand", "rand", "rand", "rand", "rand", "rand"],
+        ["rand", "rand", "rand", "rand", "rand", "rand", "rand", "rand"]
+    ]
 }
