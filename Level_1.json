@@ -1,17 +1,18 @@
 {
     "level_number": 2,
-    "grid_width": 6,
-    "grid_height": 8,
-    "move_count": 30,
-    "rand_colors": ["red", "green", "blue", "yellow", "purple", "pink"],
+    "grid_width": 8,
+    "grid_height": 9,
+    "move_count": 40,
+    "rand_colors": ["blue", "yellow", "purple", "pink"],
     "grid": [
-        ["red", "box0", "red", "box1", "green", "box0"],
-        ["red", "green", "blue", "yellow", "purple", "pink"],
-        ["box1", "blue", "box0", "yellow", "box1", "purple"],
-        ["yellow", "blue", "green", "red", "pink", "purple"],
-        ["green", "box0", "yellow", "box1", "green", "box0"],
-        ["pink", "purple", "yellow", "blue", "green", "red"],
-        ["box1", "box1", "box0", "box0", "box1", "pink"],
-        ["green", "red", "purple", "pink", "yellow", "blue"]
+        ["rand", "rand", "rand", "rand", "rand", "rand", "rand", "rand"],
+        ["rand", "rand", "rand", "rand", "rand", "rand", "rand", "rand"],
+        ["rand", "rand", "rand", "rand", "rand", "rand", "rand", "rand"],
+        ["rand", "rand", "rand", "rand", "rand", "rand", "rand", "rand"],
+        ["rand", "rand", "rand", "rand", "rand", "rand", "rand", "rand"],
+        ["rand", "rand", "rand", "rand", "rand", "rand", "rand", "rand"],
+        ["rand", "rand", "rand", "rand", "rand", "rand", "rand", "rand"],
+        ["rand", "rand", "rand", "rand", "rand", "rand", "rand", "rand"],
+        ["rand", "rand", "rand", "rand", "rand", "rand", "rand", "rand"]
     ]
 }
