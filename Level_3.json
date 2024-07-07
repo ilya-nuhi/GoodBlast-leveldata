@@ -5,6 +5,6 @@
     "move_count": 20,
     "rand_colors": ["red","green","blue","yellow","pink","purple"],
     "grid": [["rand", "rand", "rand"],
-             ["rand", "rand", "rand"]
+             ["rand", "rand", "box1"]
              ]
 }
