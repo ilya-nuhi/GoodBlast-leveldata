@@ -1,11 +1,10 @@
 {
     "level_number": 3,
     "grid_width": 3,
-    "grid_height": 4,
+    "grid_height": 2,
     "move_count": 20,
     "rand_colors": ["red","green","blue","yellow","pink","purple"],
     "grid": [["rand", "rand", "rand"],
-             ["rand", "rand", "rand"],
-             ["rand", "rand", "rand"],
-             ["rand", "rand", "rand"]]
+             ["rand", "rand", "rand"]
+             ]
 }
